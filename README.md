@@ -1,6 +1,6 @@
 # CompetenciaDeDeportes
 
-En el presente repositorio se hace entrega del codigo de la competencia de deportes, mostrando un pequeño ejemplo de como funciona
+En el presente repositorio se hace entrega del codigo de la competencia de deportes, mostrando un pequeño ejemplo de como funciona, cabe aclarar que el codigo se encuentra en la rama 'develop'.
 
 # Comunicado
 Para la elaboracion de este codigo, se hizo un cambio en el UML, siendo que se implemento una operacion en la clase 'Estadistica' para poder generar el empate de los partidos en caso que se de:
