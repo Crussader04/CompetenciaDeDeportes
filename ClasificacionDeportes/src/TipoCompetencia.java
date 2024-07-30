@@ -1,0 +1,8 @@
+public enum TipoCompetencia {
+    ELIMINACION_SIMPLE,
+    ELIMINACION_DOBLE,
+    ELIMINACION_POR_PUNTOS,
+    TODOS_CONTRA_TODOS,
+    PIRAMIDE
+}
+
